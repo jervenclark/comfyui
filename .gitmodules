@@ -1,0 +1,18 @@
+[submodule "custom_nodes/ComfyUI-Manager"]
+	path = custom_nodes/ComfyUI-Manager
+	url = git@github.com:ltdrdata/ComfyUI-Manager.git
+[submodule "custom_nodes/ComfyUI_IPAdapter_plus"]
+	path = custom_nodes/ComfyUI_IPAdapter_plus
+	url = https://github.com/cubiq/ComfyUI_IPAdapter_plus
+[submodule "custom_nodes/comfyui_controlnet_aux"]
+	path = custom_nodes/comfyui_controlnet_aux
+	url = https://github.com/Fannovel16/comfyui_controlnet_aux
+[submodule "custom_nodes/comfy_mtb"]
+	path = custom_nodes/comfy_mtb
+	url = https://github.com/melMass/comfy_mtb
+[submodule "custom_nodes/ComfyUI-Custom-Scripts"]
+	path = custom_nodes/ComfyUI-Custom-Scripts
+	url = https://github.com/pythongosssss/ComfyUI-Custom-Scripts
+[submodule "custom_nodes/comfyui-various"]
+	path = custom_nodes/comfyui-various
+	url = https://github.com/jamesWalker55/comfyui-various
