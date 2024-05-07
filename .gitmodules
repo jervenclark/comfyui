@@ -22,3 +22,18 @@
 [submodule "custom_nodes/rgthree-comfy"]
 	path = custom_nodes/rgthree-comfy
 	url = https://github.com/rgthree/rgthree-comfy
+[submodule "custom_nodes/ComfyUI-AutomaticCFG"]
+	path = custom_nodes/ComfyUI-AutomaticCFG
+	url = https://github.com/Extraltodeus/ComfyUI-AutomaticCFG
+[submodule "custom_nodes/ComfyUI-JDCN"]
+	path = custom_nodes/ComfyUI-JDCN
+	url = https://github.com/daxcay/ComfyUI-JDCN
+[submodule "custom_nodes/ComfyUI_MaraScott_Nodes"]
+	path = custom_nodes/ComfyUI_MaraScott_Nodes
+	url = https://github.com/davask/ComfyUI_MaraScott_Nodes
+[submodule "custom_nodes/was-node-suite-comfyui"]
+	path = custom_nodes/was-node-suite-comfyui
+	url = https://github.com/WASasquatch/was-node-suite-comfyui
+[submodule "custom_nodes/ComfyUI-Chibi-Nodes"]
+	path = custom_nodes/ComfyUI-Chibi-Nodes
+	url = https://github.com/chibiace/ComfyUI-Chibi-Nodes
