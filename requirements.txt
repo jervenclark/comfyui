@@ -12,3 +12,7 @@ tqdm
 psutil
 kornia>=0.7.1
 onnxruntime-gpu
+piexif
+timm
+fairscale
+pilgram
