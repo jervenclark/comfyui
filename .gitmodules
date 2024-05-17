@@ -37,3 +37,27 @@
 [submodule "custom_nodes/ComfyUI-Chibi-Nodes"]
 	path = custom_nodes/ComfyUI-Chibi-Nodes
 	url = https://github.com/chibiace/ComfyUI-Chibi-Nodes
+[submodule "custom_nodes/ComfyUI_aspect_ratios"]
+	path = custom_nodes/ComfyUI_aspect_ratios
+	url = https://github.com/massao000/ComfyUI_aspect_ratios
+[submodule "custom_nodes/image-resize-comfyui"]
+	path = custom_nodes/image-resize-comfyui
+	url = https://github.com/palant/image-resize-comfyui
+[submodule "custom_nodes/ComfyUI_UltimateSDUpscale"]
+	path = custom_nodes/ComfyUI_UltimateSDUpscale
+	url = https://github.com/ssitu/ComfyUI_UltimateSDUpscale
+[submodule "custom_nodes/ComfyUi_NNLatentUpscale"]
+	path = custom_nodes/ComfyUi_NNLatentUpscale
+	url = https://github.com/Ttl/ComfyUi_NNLatentUpscale
+[submodule "custom_nodes/ComfyUI_FaceAnalysis"]
+	path = custom_nodes/ComfyUI_FaceAnalysis
+	url = https://github.com/cubiq/ComfyUI_FaceAnalysis
+[submodule "custom_nodes/PuLID_ComfyUI"]
+	path = custom_nodes/PuLID_ComfyUI
+	url = https://github.com/cubiq/PuLID_ComfyUI
+[submodule "custom_nodes/comfyui-inpaint-nodes"]
+	path = custom_nodes/comfyui-inpaint-nodes
+	url = https://github.com/Acly/comfyui-inpaint-nodes
+[submodule "custom_nodes/masquerade-nodes-comfyui"]
+	path = custom_nodes/masquerade-nodes-comfyui
+	url = https://github.com/BadCafeCode/masquerade-nodes-comfyui.git
