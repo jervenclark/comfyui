@@ -18,3 +18,4 @@ venv/
 /user/
 .venv/
 comfyui_*.log
+fonts/*

@@ -61,3 +61,30 @@
 [submodule "custom_nodes/masquerade-nodes-comfyui"]
 	path = custom_nodes/masquerade-nodes-comfyui
 	url = https://github.com/BadCafeCode/masquerade-nodes-comfyui.git
+[submodule "custom_nodes/ComfyUI-Crystools"]
+	path = custom_nodes/ComfyUI-Crystools
+	url = https://github.com/crystian/ComfyUI-Crystools
+[submodule "custom_nodes/ComfyUI-Impact-Pack"]
+	path = custom_nodes/ComfyUI-Impact-Pack
+	url = https://github.com/ltdrdata/ComfyUI-Impact-Pack
+[submodule "custom_nodes/comfyui_segment_anything"]
+	path = custom_nodes/comfyui_segment_anything
+	url = https://github.com/storyicon/comfyui_segment_anything
+[submodule "custom_nodes/Comfy_KepListStuff"]
+	path = custom_nodes/Comfy_KepListStuff
+	url = https://github.com/M1kep/Comfy_KepListStuff
+[submodule "custom_nodes/wlsh_nodes"]
+	path = custom_nodes/wlsh_nodes
+	url = https://github.com/wallish77/wlsh_nodes
+[submodule "custom_nodes/stability-ComfyUI-nodes"]
+	path = custom_nodes/stability-ComfyUI-nodes
+	url = https://github.com/Stability-AI/stability-ComfyUI-nodes
+[submodule "custom_nodes/efficiency-nodes-comfyui"]
+	path = custom_nodes/efficiency-nodes-comfyui
+	url = https://github.com/jags111/efficiency-nodes-comfyui
+[submodule "custom_nodes/ComfyUI_Comfyroll_CustomNodes"]
+	path = custom_nodes/ComfyUI_Comfyroll_CustomNodes
+	url = https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
+[submodule "custom_nodes/ComfyUI-MeshMesh"]
+	path = custom_nodes/ComfyUI-MeshMesh
+	url = https://github.com/meshmesh-io/ComfyUI-MeshMesh
