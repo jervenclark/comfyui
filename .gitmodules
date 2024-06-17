@@ -88,3 +88,6 @@
 [submodule "custom_nodes/ComfyUI-MeshMesh"]
 	path = custom_nodes/ComfyUI-MeshMesh
 	url = https://github.com/meshmesh-io/ComfyUI-MeshMesh
+[submodule "custom_nodes/ComfyUI_InstantID"]
+	path = custom_nodes/ComfyUI_InstantID
+	url = https://github.com/cubiq/ComfyUI_InstantID
